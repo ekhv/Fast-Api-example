@@ -44,4 +44,4 @@ uvloop==0.16.0
 wcwidth==0.2.5
 websockets==10.0
 wrapt==1.13.3
-prometheus-fastapi-instrumentator==0.17.0
+prometheus-fastapi-instrumentator==6.1.0
